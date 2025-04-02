@@ -7,7 +7,7 @@ main() {
     int c ;
 
     c = a + b;
-    cout << "Line 1 - Value of c is :" << c << endl;
+   // cout << "Line 1 - Value of c is :" << c << endl;
     c = a - b;
     cout << "Line 2 - Value of c is :" << c << endl;
     c = a * b;
